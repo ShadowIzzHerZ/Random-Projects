@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0263-ugly-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Binary Search
 |  |
 | ------- |
