@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
