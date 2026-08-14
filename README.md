@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0263-ugly-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2119-a-number-after-a-double-reversal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Array
 |  |
