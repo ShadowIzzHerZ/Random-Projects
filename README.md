@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0263-ugly-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
