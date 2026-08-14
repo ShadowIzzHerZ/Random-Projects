@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0029-divide-two-integers) |
