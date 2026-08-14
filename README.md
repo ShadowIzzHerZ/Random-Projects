@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2119-a-number-after-a-double-reversal) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
