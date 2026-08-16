@@ -9,6 +9,7 @@ A collection of LeetCode questions....
 | [0007-reverse-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0050-powx-n) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions....
 | ------- |
 | [0001-two-sum](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0268-missing-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions....
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
