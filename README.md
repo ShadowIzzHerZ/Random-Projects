@@ -24,6 +24,7 @@ A collection of LeetCode questions....
 | ------- |
 | [0001-two-sum](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0268-missing-number) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions....
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions....
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShadowIzzHerZ/Random-Projects/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
